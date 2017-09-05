@@ -1,6 +1,6 @@
 # CS510 CW 1
 
-**Author(s):** _\<your name(s)\>_
+**Author(s):** Alice, Max, Keith
 
 ## Specification
 
@@ -13,7 +13,7 @@ Complete the following exercises, saving your solutions in the indicated files.
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+**We found using Latex was very useful because it makes documents look nice. Also, Github is a great tool to use in teams to help with version control and to collaborate.**
 
 ## Honor Pledge
 
@@ -24,4 +24,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Alice,Max,Keith**
